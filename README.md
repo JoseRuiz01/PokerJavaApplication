@@ -2,8 +2,8 @@
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder that contain the code
-- `lib`: the folder to maintain dependencies
+- `src`: the folder containing the code
+- `ASSETS`: the folder containing the visual resources
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
